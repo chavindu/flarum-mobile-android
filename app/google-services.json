@@ -1,3 +1,40 @@
 {
-
+  "project_info": {
+    "project_number": "1090626019172",
+    "firebase_url": "https://auroratalks-d0569.firebaseio.com",
+    "project_id": "auroratalks-d0569",
+    "storage_bucket": "auroratalks-d0569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090626019172:android:57be68ff7438a67f",
+        "android_client_info": {
+          "package_name": "org.flarum.flarum.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090626019172-n20m60tfvarho1qd6rnmr2c2p2h3j1un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NcoFa_cI3WkfLAV1CbZHherfO5qPFHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090626019172-n20m60tfvarho1qd6rnmr2c2p2h3j1un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
